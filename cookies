@@ -1,0 +1,19 @@
+[{'domain': '.fantia.jp', 'expiry': 1615268237, 'httpOnly': False, 'name': '_gat_UA-76513494-1', 'path': '/',
+  'secure': False, 'value': '1'},
+ {'domain': '.fantia.jp', 'expiry': 1615354611, 'httpOnly': False, 'name': '_gid', 'path': '/', 'secure': False,
+  'value': 'GA1.2.1925202907.1615267890'},
+ {'domain': '.fantia.jp', 'expiry': 1678340211, 'httpOnly': False, 'name': '_ga', 'path': '/', 'secure': False,
+  'value': 'GA1.2.130003664.1615267890'},
+ {'domain': 'fantia.jp', 'expiry': 1617860214.672127, 'httpOnly': True, 'name': '_session_id', 'path': '/',
+  'secure': False, 'value': '59e384763279bf2e98112b6f939426a1'}]
+
+username = "ShiTianyi2001@outlook.com"
+password = "AaxJumvBsq7y9mZ"
+
+COOKIES = {
+    "_session_id": "afc52ef477e01d6abc171abc8f700910",
+    "_ga": "GA1.2.546402542.1615236376",
+    "_gid": "GA1.2.658184345.1615236376",
+    "_gat": "1",
+    "_gat_UA-76513494-1": "1",
+}
